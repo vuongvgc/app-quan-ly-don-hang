@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "my-frist-app-angular"
+  "defaultProject": "my-frist-app-angular",
+  "cli": {
+    "analytics": "b99d5753-4606-4616-8e5d-d973c480659c"
+  }
 }
